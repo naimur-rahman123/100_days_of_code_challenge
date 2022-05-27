@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/100_days_of_code_challenge/static/css/main.5e540e99.css",
+    "main.js": "/100_days_of_code_challenge/static/js/main.12b46d01.js",
+    "static/media/snow.jpg": "/100_days_of_code_challenge/static/media/snow.01eca63cf134f576a664.jpg",
+    "index.html": "/100_days_of_code_challenge/index.html",
+    "main.5e540e99.css.map": "/100_days_of_code_challenge/static/css/main.5e540e99.css.map",
+    "main.12b46d01.js.map": "/100_days_of_code_challenge/static/js/main.12b46d01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e540e99.css",
+    "static/js/main.12b46d01.js"
+  ]
+}
